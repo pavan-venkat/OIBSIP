@@ -1,6 +1,9 @@
 
 
-https://github.com/user-attachments/assets/b4e6f1ee-5e92-4ad0-ae1b-e05e05fd0995
+
+
+https://github.com/user-attachments/assets/05a581ff-e899-4fc1-b6cb-34dd38d1e66c
+
 
 # Oasis Infobyte Internship (OIBSIP)
 
@@ -23,7 +26,9 @@ This repository contains all my assigned tasks and projects for the internship. 
 - ## 🎥 Video Demo
 Here is my project demo:
 
-https://github.com/user-attachments/assets/b4e6f1ee-5e92-4ad0-ae1b-e05e05fd0995
+
+https://github.com/user-attachments/assets/52db6c95-d3e3-44b4-8dd5-c13a0a530847
+
 
 ## Submission Guidelines
 - All tasks follow the required naming format: `YourName_TaskNumber`.
