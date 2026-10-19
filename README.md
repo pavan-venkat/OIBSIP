@@ -2,7 +2,7 @@
 
 
 
-https://github.com/user-attachments/assets/05a581ff-e899-4fc1-b6cb-34dd38d1e66c
+
 
 
 # Oasis Infobyte Internship (OIBSIP)
@@ -27,7 +27,6 @@ This repository contains all my assigned tasks and projects for the internship. 
 Here is my project demo:
 
 
-https://github.com/user-attachments/assets/52db6c95-d3e3-44b4-8dd5-c13a0a530847
 
 
 ## Submission Guidelines
