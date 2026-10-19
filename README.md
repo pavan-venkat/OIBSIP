@@ -1,10 +1,7 @@
 
 
 
-
-
-https://github.com/user-attachments/assets/2070528b-36ce-40ee-b888-8680dfe5b944
-
+https://github.com/user-attachments/assets/8533e18f-aa72-4465-a70a-85e6072f3054
 
 
 
@@ -30,8 +27,7 @@ This repository contains all my assigned tasks and projects for the internship. 
 - ## 🎥 Video Demo
 Here is my project demo:
 
-
-https://github.com/user-attachments/assets/2070528b-36ce-40ee-b888-8680dfe5b944
+https://github.com/user-attachments/assets/8533e18f-aa72-4465-a70a-85e6072f3054
 
 ## Submission Guidelines
 - All tasks follow the required naming format: `YourName_TaskNumber`.
